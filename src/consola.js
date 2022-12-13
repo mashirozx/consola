@@ -334,3 +334,5 @@ Consola.prototype.resume = Consola.prototype.resumeLogs
 
 // Export class
 export default Consola
+
+export * from './reporters'
